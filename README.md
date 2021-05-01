@@ -73,7 +73,7 @@ Looping through the 3012 rows of the data sheet just once, the refactored script
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/82285562/116794301-a333e880-aa91-11eb-9b3c-3c87d7f16d2e.png)
 
 ## Summary
-There are a few advantages to refactoring code: It allows the programmer to re-imagine their initial approach to the problem (or re-imagine someone else's)and is an opportunity for creativity. Also, as showin in this report, refactoring can have a substantial impact on code performance when optimizing for efficiency, allowing programs to be more flexible in their potential application.
+There are a few advantages to refactoring code: It allows the programmer to re-imagine their initial approach to the problem (or re-imagine someone else's) and is an opportunity for creativity. Also, as showin in this report, refactoring can have a substantial impact on code performance when optimizing for efficiency, allowing programs to be more flexible in their potential application.
  
 One of the main disadvantages to refactoring existing code, which I found *quickly* that it is easy to miss certain spots when updating variables or otherwise altering your script. Building off of my prior versions of this code taught me that keeping organized is especially important in refactoring. Otherwise it can be difficult to keep track of minor details that change as new edits are applied, which makes debugging tricky.
 
